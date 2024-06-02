@@ -1,6 +1,6 @@
 {
-  "name": "react-loading-overlay",
-  "version": "1.0.1",
+  "name": "@dvcode/react-loading-overlay",
+  "version": "1.0.2",
   "description": "Loading overlays with fade, spinner, message support.",
   "keywords": [
     "react",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/derrickpelletier/react-loading-overlay.git"
+    "url": "git+https://github.com/jeonghwanmun/react-loading-overlay.git"
   },
   "author": {
     "name": "Derrick Pelletier",
@@ -32,9 +32,9 @@
     "url": "http://dpelletier.com"
   },
   "bugs": {
-    "url": "https://github.com/derrickpelletier/react-loading-overlay/issues"
+    "url": "https://github.com/jeonghwanmun/react-loading-overlay/issues"
   },
-  "homepage": "https://github.com/derrickpelletier/react-loading-overlay#readme",
+  "homepage": "https://github.com/jeonghwanmun/react-loading-overlay#readme",
   "dependencies": {
     "emotion": "^10.0.1",
     "prop-types": "^15.6.2",

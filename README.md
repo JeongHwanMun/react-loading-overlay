@@ -32,7 +32,7 @@ v1.x is a rewrite focused on flexibility. Customization is no longer driven by c
 Wrap your components in it and toggle the `active` prop as necessary.
 
 ```javascript
-import LoadingOverlay from 'react-loading-overlay';
+import LoadingOverlay from '@dvcode/react-loading-overlay';
 
 <LoadingOverlay
   active={isActive}
@@ -75,7 +75,7 @@ npm install react-spinners
 Then simply provide it to the spinner prop for your loader.
 
 ```javascript
-import LoadingOverlay from 'react-loading-overlay'
+import LoadingOverlay from '@dvcode/react-loading-overlay'
 import BounceLoader from 'react-spinners/BounceLoader'
 
 export default function MyLoader({ active, children }) {
